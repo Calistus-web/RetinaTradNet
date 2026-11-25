@@ -138,7 +138,7 @@ The experiments were executed in the Roihu High-Performance Computing
 
 ## Dataset and Original Implementation
 
-The experiments use the FIRE retinal image registration dataset and the
+The experiments use the FIRE retinal image registration dataset and the original
 RetinaRegNet framework. The original RetinaRegNet implementation is
  retained in `Original_RetinaRegNet/` for local use and is excluded
 from repo. Dataset and implementation access remain subject to
